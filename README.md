@@ -1,6 +1,6 @@
 # Before You Build
 ## A business website, app and software planning checklist
-Created by BIXBD — https://www.bixbd.com/
+Created by BIXBD — [BIXBD](https://www.bixbd.com/)
 
 ### 1. Describe the goal
 - What business problem should this project solve?
@@ -39,7 +39,7 @@ Created by BIXBD — https://www.bixbd.com/
 
 Need help choosing a practical starting point?
 BIXBD designs and builds websites, mobile apps, online stores and custom software, with support after launch.
-Visit https://www.bixbd.com/
+Visit [BIXBD](https://www.bixbd.com/)
 
 ## About BIXBD
 BIXBD is a digital agency based in Dhaka, Bangladesh, working with businesses remotely. We design and build websites, Android and iOS apps, online stores, and custom software such as CRMs, dashboards, booking systems and AI chatbots. Our team brings design, development and support together, from the first consultation through launch and ongoing maintenance. Tell us what your business needs, and we will help you plan a practical next step.
