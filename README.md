@@ -1,3 +1,5 @@
+<img src="bixbd-logo-avatar.png" alt="BIXBD logo" width="180">
+
 # Before You Build
 ## A business website, app and software planning checklist
 Created by BIXBD — [BIXBD](https://www.bixbd.com/)
